@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KAEE,iBACF,CAEA,SAJE,kEAMF","file":"main.e3d5febd.chunk.css","sourcesContent":[".App {\n  font-family: Impact, Haettenschweiler, \"Arial Narrow Bold\", sans-serif;\n  text-align: center;\n}\n\n.h2 {\n  font-family: Impact, Haettenschweiler, \"Arial Narrow Bold\", sans-serif;\n}\n"]}
